@@ -7,7 +7,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	//test
+	//test new test
 	std::cout << "test";
 	return 0;
 }
